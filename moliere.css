@@ -1,10 +1,18 @@
 .speech{font-family: sans-serif; font-size: 14px;color: black;}
-.name{font-family:'serif', Calibri, 'Trebuchet MS', sans-serif; font-size:17px;color: black;}
+.name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size:17px;
+    color: black;
+
+}
 .direction{background-color: rgb(122, 201, 142);font-family: 'Courier New', Courier, monospace; font-size: 12px;color: black;}
 .direction:hover{
-    background-color: rgb(224, 235, 214);
-    color:rgb(221, 57, 71)
+    background-color: rgb(195, 205, 211);
+    color:rgb(56, 59, 231)
 
+}
+.name:hover{
+    text-shadow: 4px 4px 4px rgb(211, 212, 111);
 }
 .PHI{
     color: rgb(142, 199, 68);
