@@ -1,0 +1,17 @@
+.speech{font-family: sans-serif; font-size: 14px;color: black;}
+.name{font-family:'serif', Calibri, 'Trebuchet MS', sans-serif; font-size:17px;color: black;}
+.direction{background-color: rgb(122, 201, 142);font-family: 'Courier New', Courier, monospace; font-size: 12px;color: black;}
+.direction:hover{
+    background-color: rgb(224, 235, 214);
+    color:rgb(221, 57, 71)
+
+}
+.PHI{
+    color: rgb(142, 199, 68);
+}
+.ARM{
+    color: rgb(121, 40, 214);
+}
+.BEL{
+    color: rgb(209, 16, 16);
+}
