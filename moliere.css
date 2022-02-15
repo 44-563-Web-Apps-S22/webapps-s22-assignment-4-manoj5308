@@ -36,3 +36,22 @@ td{
 th{
     color:rgb(42, 165, 42);
 } 
+ul.navbar-horizontal {
+    list-style-type:none;
+    margin: 25px;
+}
+ul.navbar-horizontal li {
+    float: centre; 
+    background-color:rgb(57, 216, 57);
+}
+ul.navbar-horizontal a {
+    text-align: center;
+    color: rgb(65, 35, 175);
+    display:block;
+    padding:20px;
+    margin: 20px;
+}
+ul.navbar-horizontal a:hover {  
+    background-color:rgb(31, 214, 190);
+    color:rgb(233, 253, 144);
+}
